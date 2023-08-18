@@ -90,5 +90,7 @@ resolved_at: Updated resolved date of the service request (optional).
 Response:
 Status: 200 OK
 Body: Object with the updated tracking status details.
+
+
 Conclusion
 This document outlines the available APIs for the GasUtility Service. Users can use these endpoints to manage service requests and customers, and track the status of their service requests. Admins can use the Admin Panel endpoints to add and update tracking status details. Ensure proper authentication and authorization mechanisms are implemented before deploying these APIs to a production environment.
